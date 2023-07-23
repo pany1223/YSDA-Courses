@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/erinfedor/CLionProjects/YSDA_Algorithms/5_C_minroad.cpp
+algorithm
+-
+iostream
+-
+stack
+-
+vector
+-
+utility
+-
+list
+-
+
